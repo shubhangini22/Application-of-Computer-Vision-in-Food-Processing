@@ -1,1 +1,9 @@
 # Application-of-Computer-Vision-in-Food-Processing
+1. https://www.sciencedirect.com/science/article/pii/S0260877403001833
+2. https://www.sciencedirect.com/science/article/pii/S0956713511000855
+3. https://scijournals.onlinelibrary.wiley.com/doi/full/10.1002/jsfa.6500
+4. https://www.sciencedirect.com/science/article/pii/S0168169902001011
+5. https://link.springer.com/article/10.1007/s11947-011-0556-0
+6. https://upcommons.upc.edu/handle/2117/166916
+7. file:///C:/Users/shubh/Downloads/jios-1623.pdf
+8. https://www.sciencedirect.com/science/article/pii/S0260877416301856
